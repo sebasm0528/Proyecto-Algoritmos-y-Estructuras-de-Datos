@@ -27,6 +27,8 @@ Para descaragar presione el siguiente enlace: https://github.com/sebasm0528/Proy
 
 <img width="908" height="662" alt="Captura de pantalla 2026-02-03 125725" src="https://github.com/user-attachments/assets/30b32535-8965-4b36-bb15-d6e5fb56c86a" />
 
+<img width="910" height="668" alt="Captura de pantalla 2026-02-03 132142" src="https://github.com/user-attachments/assets/53ff2197-5b0f-41dc-a98e-19441381a48c" />
+
 ---
 
 ## 🚀 Funcionalidades
