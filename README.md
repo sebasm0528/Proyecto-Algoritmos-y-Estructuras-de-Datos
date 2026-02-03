@@ -8,7 +8,7 @@ Incluye un sistema de **login**, registro de gastos y visualización gráfica.
 
 ## 🔐 Autenticación Login
 
-Actualmente el sistema de login funciona con **credenciales quemadas en el código**.
+Actualmente el sistema de login funciona solo con las siguientes credenciales:
 
 **Usuario:** `Byron`  
 **Contraseña:** `2025`
