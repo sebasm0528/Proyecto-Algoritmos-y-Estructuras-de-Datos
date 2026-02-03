@@ -6,8 +6,6 @@ Incluye un sistema de **login**, registro de gastos y visualización gráfica.
 
 ---
 
-
-
 ## 🔐 Autenticación Login
 
 Actualmente el sistema de login funciona solo con las siguientes credenciales:
@@ -17,15 +15,11 @@ Actualmente el sistema de login funciona solo con las siguientes credenciales:
 
 🔧 **Mejora futura:** implementar autenticación usando base de datos o archivo externo (.txt).
 
-
-
 ---
 
 Para descaragar presione el siguiente enlace: https://github.com/sebasm0528/Proyecto-Algoritmos-y-Estructuras-de-Datos/blob/main/PROYECTO.exe
 
 ---
-
-
 
 ## 🖥️ Capturas de pantalla
 
