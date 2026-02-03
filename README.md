@@ -4,11 +4,16 @@
 Aplicación de escritorio desarrollada en **Python** utilizando **Tkinter**, que permite llevar un registro básico de gastos personales.  
 Incluye un sistema de **login**, registro de gastos y visualización gráfica.
 
-El login esta con datos quemados.
+---
 
-Usuario: Byron
+## 🔐 Autenticación Login
 
-Contraseña: 2025
+Actualmente el sistema de login funciona con **credenciales quemadas en el código**.
+
+**Usuario:** `Byron`  
+**Contraseña:** `2025`
+
+🔧 **Mejora futura:** implementar autenticación usando base de datos o archivo externo (.txt).
 
 ---
 
