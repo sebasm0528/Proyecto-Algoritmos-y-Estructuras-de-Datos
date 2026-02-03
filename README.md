@@ -2,10 +2,12 @@
 # 💰 Control de Gastos con Tkinter
 
 Aplicación de escritorio desarrollada en **Python** utilizando **Tkinter**, que permite llevar un registro básico de gastos personales.  
-Incluye un sistema de **login**, registro de gastos y visualización gráfica.\n
+Incluye un sistema de **login**, registro de gastos y visualización gráfica.
 
 El login esta con datos quemados.
+
 Usuario: Byron
+
 Contraseña: 2025
 
 ---
