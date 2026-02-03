@@ -1,8 +1,8 @@
 
-# 💰 Control de Gastos con Tkinter
+# 💰 GESTION DE GASTOS DE EVENTOS
 
-Aplicación de escritorio desarrollada en **Python** utilizando **Tkinter**, que permite llevar un registro básico de gastos personales.  
-Incluye un sistema de **login**, registro de gastos y visualización gráfica.
+Aplicación de escritorio desarrollada en **Python** utilizando **Tkinter**, que permite llevar un registro básico de gastos para eventos.  
+Incluye un sistema de **login** y registro de gastos.
 
 ---
 
