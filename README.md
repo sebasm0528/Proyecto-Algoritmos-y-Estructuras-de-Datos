@@ -33,8 +33,9 @@ Para descaragar presione el siguiente enlace: https://github.com/sebasm0528/Proy
 
 - 🔐 Login de usuario
 - ➕ Registro de gastos
+- ✏️ Edición de gastos registrados
+- 🗑️ Eliminación de gastos
 - 📂 Guardado de datos en archivo de texto
-- 📊 Gráfico de gastos
 - 🖥️ Interfaz gráfica amigable
 
 ---
